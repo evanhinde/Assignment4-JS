@@ -1,0 +1,24 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+}
+#studentCreds {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#search input {
+    height: 30px;
+    width: 200px;
+}
+#search button {
+    width: 100px;
+    height: 30px;
+}
